@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://my-portfolio-gules-six-22.vercel.app/" target="_blank">
+  <a href="https://my-portfolio-mnh4.vercel.app/" target="_blank">
     🌐 Portfolio
   </a>
   &nbsp;|&nbsp;
