@@ -14,7 +14,7 @@
     💼 LinkedIn
   </a>
   &nbsp;|&nbsp;
-  <a href="mailto:ranjankushwaha@example.com">
+  <a href="mailto:ranjankushwaha712@gmail.com">
     📧 Email
   </a>
 </p>
@@ -78,7 +78,7 @@
   </li>
   <br/>
   <li>
-    <b>🎮 Free Fire Max Tournament Platform</b><br/>
+    <b>Skill Swap</b><br/>
     Tournament registration, payments & leaderboard
   </li>
 </ul>
