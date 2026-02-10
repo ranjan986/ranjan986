@@ -24,9 +24,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Ranjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjan986&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjan986&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan986&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan986&layout=compact&theme=tokyonight)
 
 ---
 
