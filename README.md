@@ -1,36 +1,45 @@
-<h1 align="center">Hi 👋, I'm Ranjan Kushwaha</h1>
+<!-- ================= HEADER ================= -->
+<h1 align="center" style="color:#58a6ff;">
+  Hi 👋, I'm Ranjan Kushwaha
+</h1>
 
-<p align="center">
+<p align="center" style="font-size:16px;">
   <b>Full Stack MERN Developer</b><br/>
-  Passionate about building scalable & modern web applications
+  Passionate about building scalable & modern web applications 🚀
 </p>
 
 <p align="center">
-  <a href="https://my-portfolio-mnh4.vercel.app/" target="_blank">
-    🌐 Portfolio
+  <a href="https://my-portfolio-mnh4.vercel.app/" target="_blank" style="text-decoration:none; margin:6px;">
+    🌐 <b>Portfolio</b>
   </a>
   &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/ranjan-kushwaha-374b00253/" target="_blank">
-    💼 LinkedIn
+  <a href="https://www.linkedin.com/in/ranjan-kushwaha-374b00253/" target="_blank" style="text-decoration:none; margin:6px;">
+    💼 <b>LinkedIn</b>
   </a>
   &nbsp;|&nbsp;
-  <a href="mailto:ranjankushwaha712@gmail.com">
-    📧 Email
+  <a href="mailto:ranjankushwaha712@gmail.com" style="text-decoration:none; margin:6px;">
+    📧 <b>Email</b>
   </a>
+</p>
+
+<p align="center">
+  <b>🚀 Open to Internships | Full-Time | Freelance Opportunities</b>
 </p>
 
 <hr/>
 
-<h2>🧑‍💻 About Me</h2>
+<!-- ================= ABOUT ================= -->
+<h2 style="color:#58a6ff;">🧑‍💻 About Me</h2>
 <ul>
   <li>💻 Full Stack Developer (MERN)</li>
-  <li>🚀 Building real-world web applications</li>
-  <li>🌱 Learning DSA & backend system design</li>
-  <li>🎯 Open to internships & full-time roles</li>
+  <li>🚀 Building real-world, production-ready applications</li>
+  <li>🌱 Currently learning DSA & backend system design</li>
+  <li>🎯 Career-focused & recruiter-ready</li>
 </ul>
 
 <hr/>
 
+<!-- ================= TECH STACK ================= -->
 <h2 style="color:#58a6ff;">🛠️ Tech Stack</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
@@ -61,50 +70,55 @@
 
 </div>
 
+<hr/>
+
+<!-- ================= PROJECTS ================= -->
+<h2 style="color:#58a6ff;">📌 Featured Projects</h2>
+
+<div style="background:#0d1117; padding:14px; border-radius:10px;">
+
+  <p>
+    📱 <b>Social Media Platform</b><br/>
+    Instagram-like MERN application with authentication, posts & interactions
+  </p>
+
+  <p>
+    🛠️ <b>Local Services Booking Website</b><br/>
+    Full-stack platform for booking and managing local services
+  </p>
+
+  <p>
+    🔄 <b>Skill Swap</b><br/>
+    Platform for skill exchange with structured user interaction
+  </p>
+
+</div>
 
 <hr/>
 
-<h2>📌 Featured Projects</h2>
+<!-- ================= STATS ================= -->
+<h2 style="color:#58a6ff;">📊 GitHub Stats</h2>
 
-<ul>
-  <li>
-    <b>📱 Social Media Platform</b><br/>
-    Instagram-like MERN application with authentication & posts
-  </li>
-  <br/>
-  <li>
-    <b>🛠️ Local Services Booking Website</b><br/>
-    Full-stack platform for booking local services
-  </li>
-  <br/>
-  <li>
-    <b>Skill Swap</b><br/>
-    Tournament registration, payments & leaderboard
-  </li>
-</ul>
-
-<hr/>
-
-<h2>📊 GitHub Stats</h2>
-
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ranjan986&show_icons=true&theme=dark" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan986&layout=compact&theme=dark" />
 </p>
 
 <hr/>
 
-<h2>🔥 Activity Graph</h2>
+<!-- ================= ACTIVITY ================= -->
+<h2 style="color:#58a6ff;">🔥 Activity Graph</h2>
 
-<p>
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranjan986&theme=github-dark" />
 </p>
 
 <hr/>
 
-<p align="center">
+<!-- ================= FOOTER ================= -->
+<p align="center" style="font-size:14px;">
   ⭐ If you like my work, consider starring my repositories!
 </p>
